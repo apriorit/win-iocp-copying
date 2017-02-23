@@ -4,6 +4,8 @@
 
 The solution implements copying a folder with multiple files using asynchronous I/O in Windows. It is created mainly as a demonstration of WinAPI IOCP programming.
 
+Author: @Andrew0xFF
+
 ## Implementation
 
 The project is created in C++.
@@ -15,4 +17,4 @@ To get a brief IOCP functioning tutorial as well as simple Windows IO completion
 
 ## License
 
-Licensed under the MIT license. © Apriorit.
+Licensed under the MIT license. Â© Apriorit.
